@@ -1,10 +1,14 @@
-Should have Installed Tkinter library
+Should have installed Tkinter in python
 -
-Tkinter is typically included with the default python installation. If not:
+Command for windows: 
+```
+pip install tk
+```
 
-Command for windows: *pip install tk*
-
-Command for linux: *sudo apt-get install python3-tk*
+Command for linux:
+```
+sudo apt-get install python3-tk
+```
 
 External Font Used
 -
